@@ -40,4 +40,3 @@ Bins and Lists
 Task 8
 Basic Visualizations
 
-we used scatter plot, bar graph, pie chart, donut chart etc
